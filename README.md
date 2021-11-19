@@ -31,17 +31,17 @@
 	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="49.2" height="49.2"/>
 	</a>
-	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="49.2" height="49.2"/>
-	</a>
-	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="49.2" height="49.2"/>
-	</a>
 	<a href="https://angular.io/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="49.2" height="49.2"/>
 	</a>
 	<a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="49.2" height="49.2"/>
+	</a>
+	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="49.2" height="49.2"/>
+	</a>
+	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="49.2" height="49.2"/>
 	</a>
 	<a href="https://www.java.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="49.2" height="49.2"/>
