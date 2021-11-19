@@ -43,14 +43,14 @@
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/>
 	</a>
+	<a href="https://angular.io/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="60" height="60"/>
+	</a>
 	<a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="60" height="60"/>
 	</a>
 	<a href="https://www.java.com/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
-	</a>
-	<a href="https://angular.io/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="60" height="60"/>
 	</a>
 	<a href="https://www.swift.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="60" height="60"/>
