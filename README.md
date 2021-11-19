@@ -7,11 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://linkedin.com/in/https://www.linkedin.com/in/s%c3%a9rgio-f%c3%a9lix-2b9705217/" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/s%c3%a9rgio-f%c3%a9lix-2b9705217/" height="30" width="60" />
+	<a href="https://www.linkedin.com/in/s%c3%a9rgio-f%c3%a9lix-2b9705217/" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="60" />
 	</a>
-	<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16330445/s%c3%a9rgio-f%c3%a9lix" target="blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16330445/s%c3%a9rgio-f%c3%a9lix" height="30" width="60" />
+	<a href="https://stackoverflow.com/users/16330445/s%c3%a9rgio-f%c3%a9lix" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="60" />
 	</a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
