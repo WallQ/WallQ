@@ -1,3 +1,4 @@
+<div style="color: inherit">
 <h1 align="center">Hi 👋, I'm Sérgio Félix</h1>
 <h3 align="center">A Web and Mobile Developer Student from Portugal</h3>
 
@@ -56,3 +57,4 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="60" height="60"/>
 	</a>
 </p>
+</div>
