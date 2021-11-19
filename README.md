@@ -52,4 +52,7 @@
 	<a href="https://www.swift.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="49.2" height="49.2"/>
 	</a>
+	<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="49.2" height="49.2"/>
+	</a>
 </p>
