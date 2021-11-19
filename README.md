@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sérgio Félix</h1>
 <h3 align="center">A Web and Mobile Developer Student from Portugal</h3>
+
 - 🌱 I’m currently learning **MERN Stack**
+
 - 📫 How to reach me **sergiofelixdev@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/https://www.linkedin.com/in/s%c3%a9rgio-f%c3%a9lix-2b9705217/" target="blank">
