@@ -37,9 +37,6 @@
 	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="49.2" height="49.2"/>
 	</a>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="49.2" height="49.2"/>
-	</a>
 	<a href="https://angular.io/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="49.2" height="49.2"/>
 	</a>
@@ -51,6 +48,9 @@
 	</a>
 	<a href="https://www.swift.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="49.2" height="49.2"/>
+	</a>
+	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="49.2" height="49.2"/>
 	</a>
 	<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="49.2" height="49.2"/>
