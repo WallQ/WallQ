@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋🏼 I'm Sérgio Félix</h1>
-<h3 align="center">Computer Science and Engineering Student</h3>
+<h3 align="center">Software Developer, based in Portugal, specialized in Web Development</h3>
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React.js" width="48" height="48" />
