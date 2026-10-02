@@ -1,5 +1,5 @@
-<h1 align="center">Hi! I'm Sérgio Félix 👋🏼</h1>
-<h3 align="center">Software Engineer based in Portugal, specialized in Web Development.</h3>
+<h1 align="center">Sérgio Félix — Frontend Engineer</h1>
+<h3 align="center">Frontend Engineer @ LOQR · B.Sc. in Computer Science & Engineering · Portugal</h3>
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" height="32" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" alt="Bun" width="32" height="32" />
